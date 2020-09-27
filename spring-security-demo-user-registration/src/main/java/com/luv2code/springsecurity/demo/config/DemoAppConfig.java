@@ -24,7 +24,7 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 public class DemoAppConfig {
 
 	// set up variable to hold the properties
-	// commitnm,,.,.
+	// commit
 	@Autowired
 	private Environment env;
 	
