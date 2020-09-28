@@ -1,0 +1,7 @@
+In this project,User can login to CRM App.
+User can also register .By default,user can register with the role as employee.
+There are three roles in this:-Employee,Manager and Admin.
+Employee can only see the list  of customers.
+Admin can delte,update and list and add the customers.
+Manager can update,add and list the customers.
+I use password encryption using bcrypt technique.
